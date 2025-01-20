@@ -55,7 +55,7 @@ try:
 
     # Écrire les données dans les fichiers
     writefile("extraction3.csv", ma)
-    writefile("markdown3.md", ma)
+    writefile("markdown.md", ma)
 
     print("Les données ont été exportées avec succès.")
 
